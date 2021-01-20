@@ -6,7 +6,8 @@
   "scripts": {
     "dev": "next",
     "build": "next build",
-    "start": "next start"
+    "start": "next start",
+    "npm install": "react-dom"
   },
   "repository": {
     "type": "git",
@@ -18,7 +19,9 @@
     "axios": "^0.21.1",
     "git": "^0.1.5",
     "next": "^10.0.5",
-    "npm-git-install": "^0.3.0"
+    "npm-git-install": "^0.3.0",
+    "react": "^17.0.1",
+    "react-dom": "^17.0.1"
   },
   "gitDependencies": {
     "public-package-name": "https://github.com/davidgeovani/xyz_next.git"
