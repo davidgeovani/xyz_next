@@ -6,8 +6,7 @@
   "scripts": {
     "dev": "next",
     "build": "next build",
-    "start": "next start",
-    "install": "npm-git install"
+    "start": "next start"
   },
   "repository": {
     "type": "git",
