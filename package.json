@@ -1,0 +1,26 @@
+{
+  "name": "xyz_next",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next",
+    "build": "next build",
+    "start": "next start",
+    "install": "npm-git install"
+  },
+  "repository": {
+    "type": "git",
+    "url": "github.com/davidgeovani/xyz"
+  },
+  "author": "David",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.21.1",
+    "git": "^0.1.5",
+    "npm-git-install": "^0.3.0"
+  },
+  "gitDependencies": {
+    "public-package-name": "https://github.com/davidgeovani/xyz.git"
+  }
+}
